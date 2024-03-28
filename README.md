@@ -19,3 +19,6 @@ Required Dependencies:
 - Matplot lib
 - Seaborn
 - Warnings
+
+Interpreter Required:
+Python 3
